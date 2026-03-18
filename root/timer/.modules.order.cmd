@@ -1,0 +1,1 @@
+cmd_/home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/modules.order := {   echo /home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/timer.ko; :; } | awk '!x[$$0]++' - > /home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/modules.order

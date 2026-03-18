@@ -1,0 +1,1 @@
+cmd_/home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/Module.symvers := sed 's/ko$$/o/' /home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/modules.order | scripts/mod/modpost -m -a   -o /home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/Module.symvers -e -i Module.symvers   -T -

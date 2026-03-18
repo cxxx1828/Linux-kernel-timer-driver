@@ -1,0 +1,1 @@
+cmd_/home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/timer.mod := { echo  /home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/timer.o;  echo; } > /home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/timer.mod

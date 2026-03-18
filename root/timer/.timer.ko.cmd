@@ -1,0 +1,1 @@
+cmd_/home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/timer.ko := arm-linux-gnueabihf-ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/timer.ko /home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/timer.o /home/grozdje/linux-kernel-labs/modules/rootfs2/root/timer/timer.mod.o;  true
