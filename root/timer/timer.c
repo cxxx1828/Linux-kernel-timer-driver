@@ -19,6 +19,7 @@
 #define REG_COUNTER_HI  0x08
 #define REG_COMPARE(n)  (0x0c + (n) * 4)
 
+
 #define MAX_TIMER       3
 #define DEFAULT_TIMER   1
 
