@@ -76,6 +76,7 @@ The following properties are defined:
 
 ---
 
+
 ## Project Structure
 
 ```
